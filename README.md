@@ -1,2 +1,3 @@
 # i3-config
-i3 config files
+
+My i3 config files
